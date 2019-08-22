@@ -1,7 +1,7 @@
 ﻿using System;
-using static SimpleLoggerInterfaces.Enums.EnumCollection;
+using static SimpleLoggingInterfaces.Enums.EnumCollection;
 
-namespace SimpleLoggerInterfaces.Interfaces
+namespace SimpleLoggingInterfaces.Interfaces
 {
     public interface IEntityBase
     {
