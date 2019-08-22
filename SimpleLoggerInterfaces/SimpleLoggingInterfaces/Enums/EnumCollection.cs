@@ -1,4 +1,4 @@
-﻿namespace SimpleLoggerInterfaces.Enums
+﻿namespace SimpleLoggingInterfaces.Enums
 {
     public class EnumCollection
     {

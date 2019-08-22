@@ -1,4 +1,4 @@
-﻿namespace SimpleLoggerInterfaces.Interfaces
+﻿namespace SimpleLoggingInterfaces.Interfaces
 {
     public interface IMessageQueueEntity
     {
