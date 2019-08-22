@@ -11,5 +11,6 @@
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>Logging, Interfaces, Simple</PackageTags>
     <Authors>Thomas Nelson</Authors>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 </Project>
