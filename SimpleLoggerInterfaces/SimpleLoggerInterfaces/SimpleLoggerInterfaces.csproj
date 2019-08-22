@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright></Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Description>Interface used to determine type. Objects created to be passed from SimpleLoggerClient to SimpleLoggerService</Description>
+    <PackageProjectUrl></PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Zeroshi/SimpleLoggingInterfaces</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>Logging, Interfaces, Simple</PackageTags>
+    <Authors>Thomas Nelson</Authors>
+  </PropertyGroup>
+</Project>
