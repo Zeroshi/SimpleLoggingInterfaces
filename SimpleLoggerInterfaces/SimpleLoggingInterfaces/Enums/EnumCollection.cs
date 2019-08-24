@@ -8,5 +8,11 @@
             Info = 1,
             Error = 2
         }
+
+        public enum TransactionType
+        {
+            Internal = 0,
+            External = 1
+        }
     }
 }

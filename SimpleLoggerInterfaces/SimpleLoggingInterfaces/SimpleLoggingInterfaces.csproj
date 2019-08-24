@@ -5,12 +5,12 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Copyright></Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <Description>Interface used to determine type. Objects created to be passed from SimpleLoggerClient to SimpleLoggerService</Description>
+    <Description>Interface used to determine logging message type. Objects created to be passed from SimpleLoggerClient to SimpleLoggerService</Description>
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/Zeroshi/SimpleLoggingInterfaces</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>Logging, Interfaces, Simple</PackageTags>
     <Authors>Thomas Nelson</Authors>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 </Project>

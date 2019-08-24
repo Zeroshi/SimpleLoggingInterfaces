@@ -10,5 +10,7 @@ namespace SimpleLoggingInterfaces.Interfaces
         string Note { get; set; }
         LogLevel LogLevel { get; set; }
         Exception Error { get; set; }
+        string Application { get; set; }
+        DateTime DateTime { get; set; }
     }
 }
