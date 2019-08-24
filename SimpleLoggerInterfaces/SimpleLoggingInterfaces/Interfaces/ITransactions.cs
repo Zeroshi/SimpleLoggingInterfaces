@@ -6,7 +6,7 @@ namespace SimpleLoggingInterfaces.Interfaces
     {
         TransactionType TrasactionType { get; set; }
         string Request { get; set; }
-        string Reponse { get; set; }
+        string Response { get; set; }
         string URI { get; set; }
     }
 }
