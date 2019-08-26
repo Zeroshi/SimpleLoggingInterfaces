@@ -6,7 +6,8 @@
         {
             Debug = 0,
             Info = 1,
-            Error = 2
+            Error = 2,
+            Off = 3
         }
 
         public enum TransactionType
