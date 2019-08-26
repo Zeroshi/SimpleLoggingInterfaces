@@ -9,9 +9,9 @@
     <PackageProjectUrl></PackageProjectUrl>
     <RepositoryUrl>https://github.com/Zeroshi/SimpleLoggingInterfaces</RepositoryUrl>
     <RepositoryType>GitHub</RepositoryType>
-    <PackageTags>Logging, Interfaces, Simple</PackageTags>
+    <PackageTags>Logging, Interfaces, Simple, RabbitMQ, Enterprise, Cloud</PackageTags>
     <Authors>Thomas Nelson</Authors>
-    <Version>1.1.1</Version>
-    <PackageReleaseNotes>Corrected typo: Response</PackageReleaseNotes>
+    <Version>1.1.2</Version>
+    <PackageReleaseNotes>Added LogLevel.Off so that the user can turn off logs being send to RabbitMQ</PackageReleaseNotes>
   </PropertyGroup>
 </Project>
