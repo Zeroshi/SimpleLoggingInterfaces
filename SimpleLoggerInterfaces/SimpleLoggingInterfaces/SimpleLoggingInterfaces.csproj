@@ -11,7 +11,7 @@
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>Logging, Interfaces, Simple, RabbitMQ, Enterprise, Cloud</PackageTags>
     <Authors>Thomas Nelson</Authors>
-    <Version>1.1.2</Version>
-    <PackageReleaseNotes>Added LogLevel.Off so that the user can turn off logs being send to RabbitMQ</PackageReleaseNotes>
+    <Version>1.2.1</Version>
+    <PackageReleaseNotes>Added IRelationalDatabaseEntity</PackageReleaseNotes>
   </PropertyGroup>
 </Project>
